@@ -1,0 +1,17 @@
+C:\Users\ty_jo\Documents\Estudo\Projetos\ApiRestDotnet\LiveDotNet\LiveDotNet.Rest\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\ty_jo\Documents\Estudo\Projetos\ApiRestDotnet\LiveDotNet\LiveDotNet.Rest\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\ty_jo\Documents\Estudo\Projetos\ApiRestDotnet\LiveDotNet\LiveDotNet.Rest\bin\Debug\netcoreapp2.1\LiveDotNet.Rest.deps.json
+C:\Users\ty_jo\Documents\Estudo\Projetos\ApiRestDotnet\LiveDotNet\LiveDotNet.Rest\bin\Debug\netcoreapp2.1\LiveDotNet.Rest.runtimeconfig.json
+C:\Users\ty_jo\Documents\Estudo\Projetos\ApiRestDotnet\LiveDotNet\LiveDotNet.Rest\bin\Debug\netcoreapp2.1\LiveDotNet.Rest.runtimeconfig.dev.json
+C:\Users\ty_jo\Documents\Estudo\Projetos\ApiRestDotnet\LiveDotNet\LiveDotNet.Rest\bin\Debug\netcoreapp2.1\LiveDotNet.Rest.dll
+C:\Users\ty_jo\Documents\Estudo\Projetos\ApiRestDotnet\LiveDotNet\LiveDotNet.Rest\bin\Debug\netcoreapp2.1\LiveDotNet.Rest.pdb
+C:\Users\ty_jo\Documents\Estudo\Projetos\ApiRestDotnet\LiveDotNet\LiveDotNet.Rest\obj\Debug\netcoreapp2.1\LiveDotNet.Rest.csprojAssemblyReference.cache
+C:\Users\ty_jo\Documents\Estudo\Projetos\ApiRestDotnet\LiveDotNet\LiveDotNet.Rest\obj\Debug\netcoreapp2.1\LiveDotNet.Rest.AssemblyInfoInputs.cache
+C:\Users\ty_jo\Documents\Estudo\Projetos\ApiRestDotnet\LiveDotNet\LiveDotNet.Rest\obj\Debug\netcoreapp2.1\LiveDotNet.Rest.AssemblyInfo.cs
+C:\Users\ty_jo\Documents\Estudo\Projetos\ApiRestDotnet\LiveDotNet\LiveDotNet.Rest\obj\Debug\netcoreapp2.1\LiveDotNet.Rest.csproj.CoreCompileInputs.cache
+C:\Users\ty_jo\Documents\Estudo\Projetos\ApiRestDotnet\LiveDotNet\LiveDotNet.Rest\obj\Debug\netcoreapp2.1\LiveDotNet.Rest.RazorAssemblyInfo.cache
+C:\Users\ty_jo\Documents\Estudo\Projetos\ApiRestDotnet\LiveDotNet\LiveDotNet.Rest\obj\Debug\netcoreapp2.1\LiveDotNet.Rest.RazorAssemblyInfo.cs
+C:\Users\ty_jo\Documents\Estudo\Projetos\ApiRestDotnet\LiveDotNet\LiveDotNet.Rest\obj\Debug\netcoreapp2.1\LiveDotNet.Rest.RazorTargetAssemblyInfo.cache
+C:\Users\ty_jo\Documents\Estudo\Projetos\ApiRestDotnet\LiveDotNet\LiveDotNet.Rest\obj\Debug\netcoreapp2.1\LiveDotNet.Rest.dll
+C:\Users\ty_jo\Documents\Estudo\Projetos\ApiRestDotnet\LiveDotNet\LiveDotNet.Rest\obj\Debug\netcoreapp2.1\LiveDotNet.Rest.pdb
+C:\Users\ty_jo\Documents\Estudo\Projetos\ApiRestDotnet\LiveDotNet\LiveDotNet.Rest\obj\Debug\netcoreapp2.1\LiveDotNet.Rest.genruntimeconfig.cache
